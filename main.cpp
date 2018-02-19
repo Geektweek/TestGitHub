@@ -7,6 +7,6 @@ void main()
 
   cout << "Hello World" << endl;
 
-  cout << "Well Hello there";
+  cout << "Well Hello there" << endl;
 
 }
