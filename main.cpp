@@ -2,11 +2,12 @@
 
 using namespace std;
 
-void main()
+int main()
 {
+  int iVariable1 = 20;
 
   cout << "Hello World" << endl;
 
-  cout << "Well Hello there";
+  cout << "Well Hello there" << endl;
 
 }
